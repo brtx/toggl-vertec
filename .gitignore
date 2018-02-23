@@ -1,0 +1,7 @@
+node_modules
+vertec-xml-server
+vertec-xml-server-legacy
+configuration.js
+vertec-projects.json
+/*.log
+*.log

@@ -1,0 +1,10 @@
+{
+  "vertecXmlServerPath": null,
+  "vertecXmlServerUrl": null,
+  "vertecUsername": null,
+  "vertecPassword": null,
+  "togglApiToken": null,
+  "excludedProjects": [],
+  "excludedPhases": [],
+  "excludedActivities": []
+}

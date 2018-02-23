@@ -116,7 +116,7 @@ toggl-vertec is based on the following great open source projects:
 * [jsonfile](https://github.com/jprichardson/node-jsonfile) [(MIT)](https://github.com/jprichardson/node-jsonfile/blob/master/LICENSE)
 * [lodash](https://github.com/lodash/lodash) [(MIT)](https://github.com/lodash/lodash/blob/master/LICENSE)
 * [mocha](https://github.com/mochajs/mocha) [(MIT)](https://github.com/mochajs/mocha/blob/master/LICENSE)
-* [prompt-sync](https://github.com/0x00A/prompt-sync) [(MIT)](http://spdx.org/licenses/MIT.html) [(MIT)](https://github.com/mochajs/mocha/blob/master/LICENSE)
+* [prompt-sync](https://github.com/0x00A/prompt-sync) [(MIT)](http://spdx.org/licenses/MIT.html)
 * [simple-vertec-api](https://github.com/dimitri-koenig/simple-vertec-api) [(MIT)](http://opensource.org/licenses/MIT)
 * [toggl-api](https://github.com/7eggs/node-toggl-api) [(MIT)](https://github.com/7eggs/node-toggl-api/blob/master/LICENSE)
 * [winston](https://github.com/winstonjs/winston) [(MIT)](https://github.com/winstonjs/winston/blob/master/LICENSE)
